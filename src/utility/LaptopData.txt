@@ -1,0 +1,16 @@
+1,Acer,Notebook,Aspire 3 ,2020AS3,i5 9th Gen,Intel UHD,15.6" FHD,8 GB,256 GB SSD ,79000.0,Low,3
+2,Acer,Gaming,Predator Helios,300PH-2020,i7 10th gen,GTX 1660 ti,15.6" FHD 144 Hz,16 GB,1 TB SSD+HDD ,160000.0,Medium,4
+3,Apple,Ultrabook,Macbook Air,M120-20A,M1 Chip,M1 Chip,13.3" Retina,8 GB,256 GB SSD ,165000.0,Medium,4
+4,Apple,Ultrabook,Macbook Pro,MB20-P20,M1 Chip,M1 Chip,13.3" Retina,8 GB,512 GB SSD ,240000.0,High,5
+5,Asus,2 in 1,Zenbook Flip 13,UX363FA,i7 10th Gen,GTX 1650,13.3" FHD Touch,16 GB,1 TB SSD ,250000.0,High,4
+6,Asus,Gaming,TUF A15,A20TU15F,Ryzen 5 4600H,GTX 1650 ti,15.6" FHD 144 Hz,8 GB,512 GB SSD ,135000.0,Medium,4
+7,Dell,Ultrabook,XPS 13,7390,i7 10th Gen,Intel Iris+,13.3" FHD,16 GB,512 GB SSD ,195000.0,Medium,5
+8,Dell,2 in 1,XPS 15,XP2090S,i7 10th Gen,RTX 2060,14.4" 4K UHD,16 GB,1 TB SSD ,255000.0,High,5
+9,HP,Notebook,Handbook 14s,HB14K20,i3 9th Gen,Intel UHD,14" FHD,4 GB,512 GB HDD ,69500.0,Low,2
+10,HP,Ultrabook,Envy 13,EN2013-BF,i7 10th Gen,Intel Iris+,13.3" 4K UHD,8 GB,512 GB SSD ,148000.0,Medium,3
+11,Lenovo,Notebook,Ideapad 14,S145-14LE,i3 8th Gen,Intel UHD,14" HD,4 GB,1 TB HDD ,55000.0,Low,1
+12,Lenovo,2 in 1,Yoga C740,740YOC-20,i5 10th Gen,Intel Iris+,14" FHD Touch,8 GB,256 GB SSD ,115000.0,Medium,5
+13,MSI,Gaming,GS66 Stealth,10SFS-620,i7 10th Gen,RTX 2070,15.6" FHD 300Hz,32 GB,1 TB SSD ,386000.0,High,5
+14,MSI,Gaming,GL65 ,9SCK65-17,i7 9th Gen,GTX 1650,15.6" FHD 120Hz,8 GB,1 TB SSD+HDD ,147000.0,Medium,3
+15,Razerblade,Gaming,Razer Blade 15,RB15ST-20,i7 8th Gen,RTX 2070,15.6" 144 Hz,16 GB,512 GB SSD ,270000.0,High,4
+16,Razerblade,Gaming,Razer Blade 17,RB1720-405,i9 10th Gen,RTX 2070 MaxQ,15.6" 4K OLED,32 GB,1 TB SSD ,330000.0,High,5
